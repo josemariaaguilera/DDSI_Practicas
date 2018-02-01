@@ -29,7 +29,7 @@
     <li> Paso a tablas del esquema E/R final. </li>
     <li> Diseño físico relacional de la base de datos relacional del sistema. </li>
   </ul> <dd>
-  <dt> Implementación de varias funcionalidades del sistema. </dt>
+  <a href="https://github.com/sefi97/DDSI_Proyecto/blob/master/src/EquipoDDSI.java"><dt>Implementación de varias funcionalidades del sistema.</dt></a>
   <BR><BR>
   <dt> Trabajo realizado junto a: </dt>
   José Viñas Rodríguez (<a href="https://github.com/Joseviro">@Joseviro</a>)
