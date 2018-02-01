@@ -29,6 +29,13 @@
     <li> Paso a tablas del esquema E/R final. </li>
     <li> Diseño físico relacional de la base de datos relacional del sistema. </li>
   </ul> <dd>
-  <dt> Implementación varias funcionalidades del sistema. </dt>
+  <dt> Implementación de varias funcionalidades del sistema. </dt>
+  <BR><BR>
+  <dt> Trabajo realizado junto a: </dt>
+  José Viñas Rodríguez (<a href="https://github.com/Joseviro">@Joseviro</a>)
+  <BR>
+  Juan José Serrano Gutiérrez (<a href="https://github.com/juanjeeeh">@juanjeeeh</a>)
+  <BR>
+  María Matilde Cabrera González (<a href="https://github.com/mati3">@mati3</a>)
 </dl>
     
